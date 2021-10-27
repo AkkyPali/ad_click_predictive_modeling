@@ -16,4 +16,4 @@
 -	Interpret coefs
 
 **Results**
-Achieved accuracy of 84% using Logistic Regression Model with Tuned Hyperparameters 
+Achieved accuracy of 96.6% using Logistic Regression Model with Tuned Hyperparameters 
