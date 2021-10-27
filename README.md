@@ -5,6 +5,8 @@
 - Explain the findings effectively to technical and non-technical audiences using comments and visualizations. 
 - Build an optimized model that effectively solves the business problem. Evaluate the model on the basis of accuracy.
 
+<img width="800" alt="Screen Shot 2021-10-27 at 1 01 54 PM" src="https://user-images.githubusercontent.com/21275064/139138450-79233653-5b44-4ead-a91b-909abaf32378.png">
+
 **Approach:**
 -	Visualise and deepdive in the data
 -	Feature Engineering: Extract more meaningful features (eg: Hour and month from Timestamp and length of Topic from Ad Topic Line)
